@@ -1,4 +1,4 @@
-# 📦 Product Collections Flutter App
+# 📦 Accordion Collections Flutter App
 
 An elegant accordion-style product collections UI built using Flutter, featuring smooth animations, responsive layouts, and optimized image handling.
 
@@ -55,7 +55,7 @@ lib/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/agharsh53/flutter-accordion-collections)>
 cd collection_flow
 ```
 
@@ -81,11 +81,14 @@ Add images after uploading to:
 assets/screenshots/
 ```
 
-Example:
-```md
-![Collapsed](assets/screenshots/collapsed.png)
-![Expanded](assets/screenshots/expanded.png)
-```
+---
+
+## 📸 Screenshots
+|                                                 |                                                |
+|:-----------------------------------------------:|:----------------------------------------------:|
+| ![Collapsed](assets/screenshots/collapsed.png)  | ![Expanded](assets/screenshots/expanded.png)   |
+
+---
 
 ## ⚡ Performance Considerations
 
